@@ -1,0 +1,2 @@
+Streme showcases the power of Farcaster’s Mini App SDK, which enables developers to build apps using standard web technologies. The SDK supports features like authentication, notifications, and wallet interactions, making it easy to create apps like Streme. Developers can also use Farcaster’s APIs (e.g., https://api.farcaster.xyz) to fetch channel or user data, enhancing video discoverability within specific communities. Streme’s Universal Link support ensures that shared videos render with rich OpenGraph previews on platforms like X, increasing their reach.
+
