@@ -1,0 +1,2 @@
+Streme operates within Farcaster’s storage constraints, where users are limited to 5,000 casts per storage unit (e.g., $7 for a year). Video-related casts likely count toward this limit, requiring users to manage storage or purchase additional units. Additionally, Farcaster’s timestamp system restricts messages to within 15 minutes of the current time, ensuring real-time relevance but limiting scheduling flexibility. Developers must also ensure .m3u8 files are available at cast publish time to avoid rendering issues
+
